@@ -1,7 +1,7 @@
 title: QianFeng Shen
 description: The Webpage of QianFeng Shen
 baseurl: "https://www.svallejovera.com"
-repository: sustqwer/sustqwer.github.io
+repository: svallejovera/svallejovera.github.io
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
