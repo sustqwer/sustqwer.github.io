@@ -1,7 +1,7 @@
 title: QianFeng Shen
 description: The Webpage of QianFeng Shen
 baseurl: "https://www.svallejovera.com"
-repository: svallejovera/svallejovera.github.io
+repository: sustqwer/sustqwer.github.io
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
@@ -9,7 +9,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
+footer: yes
 # footer_url: "https://github.com/ankitsultana"
 # footer_text: "Page based on a design by Ankit Sultana"
 
