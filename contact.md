@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: wangzhenjun@haisum.com
+* Email: shenqf@haisum.com
 
 ---
 
