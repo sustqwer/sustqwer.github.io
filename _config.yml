@@ -1,27 +1,28 @@
 title: Sebastián Vallejo Vera
 description: The Webpage of Sebastián Vallejo Vera, Ph.D.
 baseurl: "https://www.svallejovera.com"
-repository: svallejovera/svallejovera.github.io
+repository: sustqwer/sustqwer.github.io
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page based on a design by Ankit Sultana"
+footer: no
+# footer_url: "https://github.com/ankitsultana"
+# footer_text: "Page based on a design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "Resume"
-   link: "vallejo cv.pdf"
+ # - name: "Resume"
+ #   link: "vallejo cv.pdf"
  - name: "Contact"
    link: "contact"
- - name: "iLCSS"
-   link: "https://ilcss.umd.edu/"
- - name: "Teaching"
-   link: "teaching"
+ # - name: "iLCSS"
+ #   link: "https://ilcss.umd.edu/"
+ # - name: "Teaching"
+ #   link: "teaching"
